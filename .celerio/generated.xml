@@ -1,0 +1,22 @@
+<map>
+  <entry>
+    <string>src/main/config/celerio-maven-plugin/celerio-template-packs.xml</string>
+    <com.jaxio.celerio.output.FileMetaData>
+      <pack>pack-javaee7-wildfly</pack>
+      <template>bootstrap/celerio-template-packs.boot.vm.xml</template>
+      <size>908</size>
+      <path>src/main/config/celerio-maven-plugin/celerio-template-packs.xml</path>
+      <lastMod>1626012876000</lastMod>
+    </com.jaxio.celerio.output.FileMetaData>
+  </entry>
+  <entry>
+    <string>pom.xml</string>
+    <com.jaxio.celerio.output.FileMetaData>
+      <pack>pack-javaee7-wildfly</pack>
+      <template>bootstrap/pom.boot.vm.xml</template>
+      <size>27161</size>
+      <path>pom.xml</path>
+      <lastMod>1626012877000</lastMod>
+    </com.jaxio.celerio.output.FileMetaData>
+  </entry>
+</map>
